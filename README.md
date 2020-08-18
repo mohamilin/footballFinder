@@ -18,4 +18,7 @@
     - Sedangkan untuk folder styles terdapat 4 (empat) file css yang bernama appbar.css, clublist.css, searchbar.css dan style.css. File-file tersebut berfungsi agar tampilan antar muka lebih menarik dan komunikatif.
     - Membuat link untuk CSS posisinya terletak di dalam <head> 
     - Membuat link untk Javascript diletakkan dalam <body> 
-    - Hubungkan file-file css dan javascripts agar terhubung dengan file index.html
+    - Hubungkan file-file css dan javascripts agar terhubung dengan file index.html. 
+
+# STEP 3
+    - 
