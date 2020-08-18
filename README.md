@@ -12,7 +12,10 @@
 # STEP 2
     - Membuat folder src untuk menampung javascript dan css 
     - Buat folder srcipts dan styles letakkan dalam folder src
-    -
+    - Untuk folder scripts kita memerlukan dua folder yaitu data dan view
+        - Folder data didalamnya terdapat file club.js dan data-source.js. Kedua folder ini untuk menghimpun data terkait nama club sepak bola.
+        - Folder view terdapat file main.js yang berfungsi untuk menampilkan data. 
+    - Sedangkan untuk folder styles terdapat 4 (empat) file css yang bernama appbar.css, clublist.css, searchbar.css dan style.css. File-file tersebut berfungsi agar tampilan antar muka lebih menarik dan komunikatif.
     - Membuat link untuk CSS posisinya terletak di dalam <head> 
     - Membuat link untk Javascript diletakkan dalam <body> 
-        de
+    - Hubungkan file-file css dan javascripts agar terhubung dengan file index.html
