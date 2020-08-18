@@ -1,6 +1,8 @@
 # footballFinder
 === Steps by steps of create web app ===
+
 #STEP 1
+
     - Buat dokumen HTML:5
     - Beri nama tag <tittle> dengan "Football Clubs Finder"
     - Dalam element body, kita buat tag <header> dan <main>
