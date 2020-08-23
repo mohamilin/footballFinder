@@ -9,6 +9,7 @@
         - <div> pertama kita beri id => search-container dan class => search-container
         - <div> kedua kita beri id => clubList
     - Pada <div> pertama didalamnya kita beri tag <input> dimana memiliki type => search, placeholder => Search Football Clubs dan id => searchElement serta untuk tag <button> memiliki id => searchButtonElement, type => submit dan nama => search
+    
 # STEP 2
     - Membuat folder src untuk menampung javascript dan css 
     - Buat folder srcipts dan styles letakkan dalam folder src
